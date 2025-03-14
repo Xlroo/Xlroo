@@ -1,21 +1,20 @@
-### 👋 Hi, I'm Victor.Welcome to My Repository Galaxy!
+##👋 Hi, I'm Victor. Welcome to My Repository Galaxy!
 
-### 🚀 I'm a software engineering student Alx. 
-### 💡 I’m Working On:
+🚀 I'm a software engineering student Alx.<br/>
+💡 I’m Working On:<br/>
     Crafting seamless logistics solutions using blockchain.
     Exploring the worlds of insurance tech and AI, blending LangChain, Llama 3.1, and a little innovation magic.
     Turning cybersecurity dreams into a thriller story—where threats are thwarted before they even exist.
-### 📚 What I’m Learning:
+📚 What I’m Learning:<br/>
 
     Diving into internal medicine topics, from thyroid quirks to systemic lupus sleuthing.
     Polishing my bash scripting and Linux wizardry.
     Training an AWS DeepRacer to own the tracks.
-### ⚡ Fun Fact:
+⚡ Fun Fact:<br/>
 I can debug a dApp, diagnose mitral stenosis, and still have time to build a killer README!
-### 💌 Connect with me:
-X:(https://x.com/VkKenneth/)
-LinkedIN:(https://www.linkedin.com/in/victor-kenneth-baraza/)
+💌 Connect with me:<br/>
 Open a pull request or DM me—collaboration is always on my agenda!
+
 
 
 ## 🌐 Socials:
@@ -29,10 +28,10 @@ Open a pull request or DM me—collaboration is always on my agenda!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xlroo&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xlroo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=xlroo&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=xlroo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=xlroo&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xlroo&icon=2&color=11)](https://visitcount.itsvg.in)
