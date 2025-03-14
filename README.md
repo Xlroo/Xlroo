@@ -11,7 +11,7 @@
     Polishing my bash scripting and Linux wizardry.
     Training an AWS DeepRacer to own the tracks.
 ⚡ Fun Fact:<br/>
-I can debug a dApp, diagnose mitral stenosis, and still have time to build a killer README!
+I can debug a dApp, diagnose mitral stenosis, and still have time to build a killer README!<br/>
 💌 Connect with me:<br/>
 Open a pull request or DM me—collaboration is always on my agenda!
 
